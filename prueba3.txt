@@ -1,0 +1,17 @@
+//#include
+
+#include <iostream>
+import(tres.txt);
+//int& cadena_=3;
+dfjdijvdn
+vdfnvjkdnf
+
+String a3;
+String b3c_;
+String bc_
+"String b3c_;
+String b3c_;"
+
+"String b3c_;"
+
+/*final*/
